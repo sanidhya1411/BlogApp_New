@@ -1,0 +1,13 @@
+.bg{
+    height:100vh;
+    display:flex;
+    background-color:#0080ff;
+    color:white;
+}
+.font{
+    width:100%;
+    font-weight:bold;
+    font-size:30px;
+    margin-top:200px;
+    text-align:center;
+}
